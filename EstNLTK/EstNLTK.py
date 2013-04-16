@@ -101,6 +101,7 @@ class EstNLTK:
             if synonyym == otsitav:
                 synonyymid.remove(synonyym)
         return synonyymid
+		#muutused19.01
 
     def wn_hyperonyymid(self, otsitav):
         ### Funktsioon leiab WordNetist sõnale hüponüümid. ###
