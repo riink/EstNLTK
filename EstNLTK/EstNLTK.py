@@ -214,3 +214,4 @@ class EstNLTK:
                     bigram[1][0] = bigram[1][0].replace(mark,'')
                 output.append(str(bigram[0][0])+' '+str(bigram[1][0]))
         return output
+#Eleri muudatus.
